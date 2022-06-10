@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\aporte\bin\Debug\net6.0\aporte.exe
+C:\Users\Usuario\Desktop\aporte\bin\Debug\net6.0\aporte.deps.json
+C:\Users\Usuario\Desktop\aporte\bin\Debug\net6.0\aporte.runtimeconfig.json
+C:\Users\Usuario\Desktop\aporte\bin\Debug\net6.0\aporte.dll
+C:\Users\Usuario\Desktop\aporte\bin\Debug\net6.0\aporte.pdb
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\aporte.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\aporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\aporte.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\aporte.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\aporte.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\aporte.dll
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\refint\aporte.dll
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\aporte.pdb
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\aporte.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\aporte\obj\Debug\net6.0\ref\aporte.dll
